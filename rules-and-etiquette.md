@@ -201,7 +201,9 @@ You should CW a post when it contains any of the following topics, whether the c
 
 - **Politics** (normally abbreviated to 'pol' along with the country/region, ie. 'UKpol', 'DEpol', etc.)
 - **Potentially triggering Mental Health topics** (normally abbreviated to 'mh'). *Many of our members come here to discuss their mental health journey, and we seek to be as welcoming and open as possible, but for the sake of other users: please CW references to self harm, suicide, helplessness and other moods and behaviours that may be contagious or trigger people in recovery*
-- **Food, alcohol ('alc') and drugs**
+- **Alcohol ('alc') and drugs** 
+- **Diet talk or weight loss** Discussion of dieting, including any judgments about "healthy food" even if you're not counting calories, should be CW'd differently from "ooh yummy" types of food posts.
+- **Food in general**
 - **NSFW content**
 - **Sexual themes or content**
 - **Violent themes or content, blood and gore**
