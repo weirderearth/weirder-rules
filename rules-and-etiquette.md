@@ -107,7 +107,7 @@ These result in an immediate ban:
 - Clearly being disrespectful or acting like an asshole.
 - Telling someone to or suggesting that someone should commit suicide, be killed, or die. (even jokingly)
 - Refusing to CW content that should be in a CW (see the Etiquette section), or refusing moderator requests to CW content.
-- Advertising or preaching (as opposed to sharing or genuinely showing off things to people, which is totally fine)
+- Advertising or preaching (promoting your own work is fine; being paid to shill/advertise for someone else is not fine)
 
 
 This is also *super not okay*:
@@ -137,6 +137,7 @@ It's important that our server is a place for constructive ideas, and not ones t
 Some kinds of conspiracy talk and discussions of the occult and woo are fine, but these are examples of the kinds of things that are unacceptable here:
 
 - Anti-vaxxer
+- COVID denial/doomerism: ideologies normalizing the spread of COVID, rejecting risk mitigation such as masking and testing, etc.
 - Climate change denial
 - Flat earthers
 - NWO, Illuminati, Chemtrails, Pizzagate, etc.
@@ -144,6 +145,7 @@ Some kinds of conspiracy talk and discussions of the occult and woo are fine, bu
 - Pseudoscience like Homeopathy, 'healing crystals', etc.
 - 'Creation Science' and other religious forms of pseudoscience.
 - Promoting MLMs (Multi-Level Marketing schemes) or Ponzi schemes.
+- Promoting, supporting, or using Weirder Earth to do business with cryptocurrency, NFTs, play-to-earn gaming, or the like. (Anti-cryptocurrency posting is permitted.)
 
 Guerilla ontologies and similar things are absolutely fine.
 
@@ -168,8 +170,6 @@ Any of these will result in an immediate ban.
 #### FOSTA/SESTA
 
 We are a sex-worker positive space and we openly advocate for sex worker rights. But because the instance is owned by someone who lives on American soil and because of recent American laws, you can't solicit sex work in this instance, nor can you be a client.
-
-If you want to do either, we recommend using another Mastodon instance called [Switter](https://switter.at). It has specifically been set up in the appropriate legal jurisdictions for sex workers and clients.
 
 ---
 
