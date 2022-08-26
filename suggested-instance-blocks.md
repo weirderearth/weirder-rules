@@ -16,7 +16,6 @@ etc.).
 * freespeechextremist.com
 * freewahaextremist.com
 * gab.ai and .best and .com
-* gameliberty.club
 * gearlandia.haus
 * gleasonator.com
 * iddqd.social
@@ -24,7 +23,6 @@ etc.).
 * leafposter.club
 * letsalllovela.in
 * mastodon.green
-* neckbeard.xyz
 * noagendasocial.com
 * outerheaven.club
 * poa.st
