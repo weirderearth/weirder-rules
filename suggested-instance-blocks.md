@@ -8,12 +8,15 @@ etc.).
 
 * bae.st
 * baraag.net
+* beefyboys.win
 * bitcoinhackers.org
+* cawfee.club
 * dobbs.town
 * freeatlantis.com
 * freecumextremist.com
 * freesoftwareextremist.com
 * freespeechextremist.com
+* freespeech.group
 * freewahaextremist.com
 * gab.ai and .best and .com
 * gearlandia.haus
@@ -29,6 +32,7 @@ etc.).
 * qoto.org
 * rdrama.cc
 * shitposter.club
+* sneed.social
 * spinster.xyz
 * truthsocial.com
 * yggdrasil.social
