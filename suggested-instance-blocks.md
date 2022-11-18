@@ -6,9 +6,12 @@ their size+activity level and known toxic, hateful, and otherwise dangerous
 activity (harassment, hate speech, trolling, general bad-faith behavior,
 etc.).
 
+* 80percent.social
 * bae.st
 * baraag.net
 * bitcoinhackers.org
+* cum.salon
+* dirtyhobby.xyz
 * dobbs.town
 * freeatlantis.com
 * freecumextremist.com
@@ -25,8 +28,8 @@ etc.).
 * mastodon.green
 * noagendasocial.com
 * outerheaven.club
+* pawoo.net
 * poa.st
-* qoto.org
 * rdrama.cc
 * shitposter.club
 * spinster.xyz
