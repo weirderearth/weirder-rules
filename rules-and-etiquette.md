@@ -169,7 +169,11 @@ Any of these will result in an immediate ban.
 
 #### FOSTA/SESTA
 
-We are a sex-worker positive space and we openly advocate for sex worker rights. But because the instance is owned by someone who lives on American soil and because of recent American laws, you can't solicit sex work in this instance, nor can you be a client.
+We are a sex-worker positive space and we openly advocate for sex worker
+rights. Unfortunately, because the instance is owned by someone who lives on
+American soil and hosted on American servers, you cannot solicit full-service
+sex work from this instance, nor can you be a client for such. Other forms of
+sex work, to the extent that they are legal in our jurisdiction, are permitted.
 
 ---
 
