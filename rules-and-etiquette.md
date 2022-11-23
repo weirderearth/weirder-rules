@@ -169,7 +169,11 @@ Any of these will result in an immediate ban.
 
 #### FOSTA/SESTA
 
-We are a sex-worker positive space and we openly advocate for sex worker rights. But because the instance is owned by someone who lives on American soil and because of recent American laws, you can't solicit sex work in this instance, nor can you be a client.
+We are a sex-worker positive space and we openly advocate for sex worker
+rights. Unfortunately, because the instance is owned by someone who lives on
+American soil and hosted on American servers, you cannot solicit full-service
+sex work from this instance, nor can you be a client for such. Other forms of
+sex work, to the extent that they are legal in our jurisdiction, are permitted.
 
 ---
 
@@ -199,21 +203,16 @@ You should CW a post when it contains any of the following topics, whether the c
 
 <br/>
 
-- **Politics** (normally abbreviated to 'pol' along with the country/region, ie. 'UKpol', 'DEpol', etc.)
+- **Political current events** such as elections and government actions (normally abbreviated to 'pol' along with the country/region, ie. 'UKpol', 'DEpol', etc.)
 - **Potentially triggering Mental Health topics** (normally abbreviated to 'mh'). *Many of our members come here to discuss their mental health journey, and we seek to be as welcoming and open as possible, but for the sake of other users: please CW references to self harm, suicide, helplessness and other moods and behaviours that may be contagious or trigger people in recovery*
-- **Alcohol ('alc') and drugs** 
+- **Alcohol ('alc') and drugs**
 - **Diet talk or weight loss** Discussion of dieting, including any judgments about "healthy food" even if you're not counting calories, should be CW'd differently from "ooh yummy" types of food posts.
 - **Food in general**
-- **NSFW content**
 - **Sexual themes or content**
 - **Violent themes or content, blood and gore**
 - **Themes or content about abuse**
-- **Generally negative things/events/people**
-- **Things people might find scary** (Like certain animals such as snakes and insects.)
+- **Common phobias** (Like certain animals such as snakes and insects.)
 - **Long posts or posts with multiple parts** (please also use the 'unlisted' privacy setting for posts after the first in a thread, so that the local timeline doesn't get flooded)
-
-<br/>
-
 
 Also CW images that have nudity or these areas of the body exposed:
 
@@ -222,12 +221,9 @@ Also CW images that have nudity or these areas of the body exposed:
 
 This applies to all bodies regardless of gender.
 
-<br/>
+We don't want to ask anyone to CW their identities. We particularly don't want to ask marginalized people to CW their marginalization. We're not going to be hardline about the rules in cases where there are compelling reasons to frame what you're saying differently...
 
-You should use CWs at all times if your post matches the criteria. Even when you think it's urgent that people should know about it (you can add that it's urgent in the CW if you like).
-
-
-<br/>
+...but "this is important, so I won't CW" and "this is urgent, so I won't CW" are non-sequiturs - the importance and the urgency have nothing to do with whether that content is more accessible with a content warning.
 
 ### Always write descriptions for your images.
 
