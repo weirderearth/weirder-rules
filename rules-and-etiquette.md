@@ -38,6 +38,7 @@ If you have the following or similar kinds of ideologies or affiliations, you ar
 - Militarism, Chauvinism, Ethno-nationalism, Xenophobia or similar.
 - Stalinism, Maoism or similar. (Non-authoritarian forms of Socialism and Communism are A-OK!)
 - Shitty furries (Nazifurs and any furry that thinks being a bigoted piece of shit is okay!)
+- Pro-bestiality/zoophilia
 
 <br/>
 
