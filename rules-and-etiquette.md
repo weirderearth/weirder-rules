@@ -79,6 +79,7 @@ Comments, imagery, memes or publications that demean, dehumanise, malign or othe
 - Age
 - Body size/weight
 - Disability
+    - This includes insults based on intelligence or mental illness; see [Avoid Ableist Language by Kavana Ramaswamy](https://kavanaramaswamy.com/posts/ableistlanguage/) for commentary on this
 - Religion
 - Sex work
 - Kinks or fetishes
