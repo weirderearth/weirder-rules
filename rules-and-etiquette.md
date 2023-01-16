@@ -163,7 +163,7 @@ Do not post illustrated imagery featuring sexualised depictions *of people who a
 
 Do not post erotica involving minors.
 
-(Ofc actual child porn is also absolutely not allowed)
+Do not post child sexual abuse material.
 
 Any of these will result in an immediate ban.
 
