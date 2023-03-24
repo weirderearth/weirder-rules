@@ -227,33 +227,31 @@ We don't want to ask anyone to CW their identities. We particularly don't want t
 
 ...but "this is important, so I won't CW" and "this is urgent, so I won't CW" are non-sequiturs - the importance and the urgency have nothing to do with whether that content is more accessible with a content warning.
 
-### Always write descriptions for your images.
+### On media descriptions
 
-Mastodon has an image description feature, meaning that you can attach text descriptions to the images you upload so the blind or visually impaired can understand what the image is.
+Weirder Earth encourages (but does not require - see below!) adding descriptions to images, videos, audio files, and so forth that you attach to your posts. On the web UI, you can click the "Edit" button in the top right to access the modal with the description box. Give it a shot even if you haven't tried before - you don't have to be expert to be helpful!
 
-There is never a time that this would not be potentially useful to someone.
+What makes a good description depends on what you post and why you post it. For example:
 
-Some tips for writing image descriptions:
+- **image or recording of words to be read/listened to:** put the full text in the description box so people can read/listen to it. (If it won't fit, thread it.)
+- **artwork:** describe the style, contents, and mood, as best as you can.
+- **informative illustration:** write text that can serve the same informative purpose.
 
-**Write:**
+In general, if you posted something for a reason, write a description accordingly. If it's an error message, say what went wrong. If it's a meme, tell us what's so funny (yes, even if it's not that funny). Heck, if it's your pet, gush about their cuteness, and if it's a horny selfie, be horny in your description! You're posting these things because you care, and you're allowed to care in your descriptions, too.
 
-- Placement of objects
-- The kind of image it is (photo, painting, drawing, CG, chart, text, screenshot etc.)
-- Colours
-- People and animals
-- Placement of text
-- Emotions (ie. smiling)
-- General surroundings)
-- (Generally what is important to understanding the picture, or what the point of the picture is.)
+**If you can't add a media description, please do any of the following:**
 
-**Don't write:**
+* Add a note, in CW line or post body, that your media is undescribed.
+* Add a request for description, as text or by using a custom emoji: `:describe_me:`, `:describe_me_outlined:`, or `:help_describe:`.
+* Tag `@imagecaptionspls@a.gup.pe` or `#Alt4Me` to request help from others. (p.s. if you enjoy writing descriptions, follow that account or tag!)
 
-- Descriptions that are too detailed.
-- Details of the picture that would be obvious in the given context (like, you don't need to say that a face has two eyes, a nose and a mouth because you've said it's a face).
-- Details that aren't the point or the focus of the picture.
-- (Generally what isn't important to understanding the picture, or what the point of the picture is.)
+In addition, if your main obstacle is just remembering to do it, you can follow `@PleaseCaption@botsin.space` - it'll follow you back and let you know if you post or boost undescribed content.
 
-Unfortunately, not all mobile apps do image descriptions, but just try your best!
+**Further readings for those interested**
+- `@Curator@mastodon.art`'s [short media description guide for artists](https://mastodon.art/@Curator/108197411515405526).
+- `@AmaBagins@mastodon.art`'s [thread on alt text from a web standard perspective](https://mastodon.art/@AmaBagins/109321545433041372).
+- [Alt Text as Poetry](https://alt-text-as-poetry.net/): a proposal to approach alt text as its own art form.
+- ["Against Access" by John Lee Clark](https://audio.mcsweeneys.net/transcripts/against_access.html): a discussion by a DeafBlind author about what matters and what is helpful (and not helpful).
 
 <br/>
 
