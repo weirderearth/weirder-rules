@@ -55,7 +55,7 @@ If you work in any capacity (whether as a direct employee or a contractor) for a
 
 Apart from those listed, if you have any ideology that believes in  - whether violently, non-violently or religiously - the repression of people based on race, gender identity, sexuality and so on, you are also not welcome here.
 
-**Ideologies or affiliations based on controlled *counter-violence* in opposition to oppression (like antifa/antifascism) *are* welcome here.**
+**Ideologies or affiliations based on controlled *counter-violence* in opposition to oppression (like antifa/antifascism) *are* welcome here.** However, telling oppressed groups how they should or shouldn't oppose their oppression is not.
 
 <br/>
 
@@ -100,6 +100,10 @@ It's okay to criticise things like religions, but only as long as that isn't jus
 <br/>
 
 Marginalised communities (like PoC or women) being fed up with systemic problems and complaining about certain groups' lack of understanding or action about certain issues (ie. white people, men) is not hate speech. If you're not a part of the problem, you don't need to see it as an attack. :)
+
+<br/>
+
+Likewise, marginalized people and communities taking the slurs (or other insulting and derogatory words) that target them and reappropriating them as positive words for themselves is allowed. If it's not about you, it's not your call.
 
 <br/>
 
