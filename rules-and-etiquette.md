@@ -69,9 +69,10 @@ This covers a lot of mostly obviously unpleasant stuff.
 <br/>
 
 #### Hate speech
-Hate speech results in an immediate ban. Here are some examples of what we mean:
 
-Comments, imagery, memes or publications that demean, dehumanise, malign or otherwise hurt a person or a group of people based on certain characteristics or group status, including but not limited to:
+We consider the following as hate speech:
+
+Comments, imagery, memes or publications that, either deliberately or unknowingly, demean, dehumanise, malign or otherwise hurt a person or a group of people based on certain characteristics or group status, including but not limited to:
 
 - Race
 - Sexuality
@@ -86,20 +87,29 @@ Comments, imagery, memes or publications that demean, dehumanise, malign or othe
 - Certain personas or forms of identity (furries, otherkin, plural systems, etc.)
 - Poverty/lack of wealth
 
-
 Saying things or things in a particular way, like:
 
 - Racial slurs, ableist slurs, etc.
 - Intentional misgendering (intentionally using pronouns or phrasing to refer to someone's gender incorrectly)
 
-
 <br/>
 
-It's okay to criticise things like religions, but only as long as that isn't just a wedge/shield for bigotry (eg. using feminist concepts to malign all forms of Islam instead of rationally talking about the specific forms of Islam or Islamic communities which do have mysogyny issues).
+It's okay to criticise things like religions, but only as long as that isn't just a wedge/shield for bigotry (eg. using feminist concepts to malign all forms of Islam instead of rationally talking about the mysogynistic actions and policies of a specific individidual or community).
 
 <br/>
 
 Marginalised communities (like PoC or women) being fed up with systemic problems and complaining about certain groups' lack of understanding or action about certain issues (ie. white people, men) is not hate speech. If you're not a part of the problem, you don't need to see it as an attack. :)
+
+<br/>
+
+Deliberate hate speech, even if under a CW, will result in an immediate ban.
+Language that contains unintentional hate speech is not subject to moderator
+action, but we expect folks to engage in good faith when it's pointed out to
+them.
+
+<br/>
+
+We recognize that marginalization can bring a lot of internalized hate, and intend for this to be a safe space to process that. However, we still ask that folks be mindful of spreading these sentiments on the public timeline, CW such posts appropriately, and respect requests to mark them as followers-only.
 
 <br/>
 
