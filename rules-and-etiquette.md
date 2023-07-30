@@ -69,9 +69,10 @@ This covers a lot of mostly obviously unpleasant stuff.
 <br/>
 
 #### Hate speech
-Hate speech results in an immediate ban. Here are some examples of what we mean:
 
-Comments, imagery, memes or publications that demean, dehumanise, malign or otherwise hurt a person or a group of people based on certain characteristics or group status, including but not limited to:
+We consider the following as hate speech:
+
+Comments, imagery, memes or publications that, either deliberately or unknowingly, demean, dehumanise, malign or otherwise hurt a person or a group of people based on certain characteristics or group status, including but not limited to:
 
 - Race
 - Sexuality
@@ -86,20 +87,38 @@ Comments, imagery, memes or publications that demean, dehumanise, malign or othe
 - Certain personas or forms of identity (furries, otherkin, plural systems, etc.)
 - Poverty/lack of wealth
 
-
-Saying things or things in a particular way, like:
+Saying things in a particular way, like:
 
 - Racial slurs, ableist slurs, etc.
 - Intentional misgendering (intentionally using pronouns or phrasing to refer to someone's gender incorrectly)
 
+<br/>
+
+It's okay to criticise things like religions, but only as long as that isn't
+just a wedge/shield for bigotry (eg. using feminist concepts to malign all
+forms of Islam instead of rationally talking about the misogynistic actions and
+policies of a specific individual or community).
 
 <br/>
 
-It's okay to criticise things like religions, but only as long as that isn't just a wedge/shield for bigotry (eg. using feminist concepts to malign all forms of Islam instead of rationally talking about the specific forms of Islam or Islamic communities which do have mysogyny issues).
+Marginalised communities (like PoC or women) being fed up with systemic
+problems and complaining about certain groups' lack of understanding or action
+about certain issues (ie. white people, men) is not hate speech. If you're not
+a part of the problem, you don't need to see it as an attack. :)
 
 <br/>
 
-Marginalised communities (like PoC or women) being fed up with systemic problems and complaining about certain groups' lack of understanding or action about certain issues (ie. white people, men) is not hate speech. If you're not a part of the problem, you don't need to see it as an attack. :)
+Deliberate hate speech, even if under a CW, will result in an immediate ban.
+When a post contains unintentional hate speech, mods will often reach out to
+the poster first - we expect folks to engage in good faith when issues are
+pointed out to them.
+
+<br/>
+
+We recognize that marginalization can bring a lot of internalized hate, and
+intend for this to be a safe space to process that. However, we still ask that
+folks be mindful of spreading these sentiments on the public timeline, CW such
+posts appropriately, and respect requests to mark them as followers-only.
 
 <br/>
 
@@ -131,7 +150,7 @@ Any of these kinds of things will result in an immediate ban:
 - Using posts, screenshots or out of context quotes to mock or make fun of someone else.
 - Submitting false reports against someone else.
 - Continuing to interact with someone after they have told you to stop.
-- Threatening to harrass, threatening to dox, threatening to DDoS, or any other kind of threat.
+- Threatening to harass, threatening to dox, threatening to DDoS, or any other kind of threat.
 - Sexual harassment or acting in a sexually predatory way.
 
 <br/>
@@ -153,7 +172,7 @@ Some kinds of conspiracy talk and discussions of the occult and woo are fine, bu
 - Promoting MLMs (Multi-Level Marketing schemes) or Ponzi schemes.
 - Promoting, supporting, or using Weirder Earth to do business with cryptocurrency, NFTs, play-to-earn gaming, or the like. (Anti-cryptocurrency posting is permitted.)
 
-Guerilla ontologies and similar things are absolutely fine.
+Guerrilla ontologies and similar things are absolutely fine.
 
 
 
@@ -277,7 +296,7 @@ This is a tempting thing to do (and sometimes an ideal thing to do) if you don't
 
 ### Be careful when considering giving unsolicited advice.
 
-We try to be respectful of the opinions and views of others. Often unsolicited advice or prosletyzing, while well intentioned, can never the less make a person feel like their beliefs, values, or experience are invalid. For this reason, you should err on the side of caution.
+We try to be respectful of the opinions and views of others. Often unsolicited advice or proselytizing, while well intentioned, can never the less make a person feel like their beliefs, values, or experience are invalid. For this reason, you should err on the side of caution.
 
 <br/>
 
