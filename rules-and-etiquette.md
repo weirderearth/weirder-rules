@@ -94,22 +94,31 @@ Saying things in a particular way, like:
 
 <br/>
 
-It's okay to criticise things like religions, but only as long as that isn't just a wedge/shield for bigotry (eg. using feminist concepts to malign all forms of Islam instead of rationally talking about the misogynistic actions and policies of a specific individual or community).
+It's okay to criticise things like religions, but only as long as that isn't
+just a wedge/shield for bigotry (eg. using feminist concepts to malign all
+forms of Islam instead of rationally talking about the misogynistic actions and
+policies of a specific individual or community).
 
 <br/>
 
-Marginalised communities (like PoC or women) being fed up with systemic problems and complaining about certain groups' lack of understanding or action about certain issues (ie. white people, men) is not hate speech. If you're not a part of the problem, you don't need to see it as an attack. :)
+Marginalised communities (like PoC or women) being fed up with systemic
+problems and complaining about certain groups' lack of understanding or action
+about certain issues (ie. white people, men) is not hate speech. If you're not
+a part of the problem, you don't need to see it as an attack. :)
 
 <br/>
 
 Deliberate hate speech, even if under a CW, will result in an immediate ban.
-Language that contains unintentional hate speech is not subject to moderator
-action, but we expect folks to engage in good faith when it's pointed out to
-them.
+When a post contains unintentional hate speech, mods will often reach out to
+the poster first - we expect folks to engage in good faith when issues are
+pointed out to them.
 
 <br/>
 
-We recognize that marginalization can bring a lot of internalized hate, and intend for this to be a safe space to process that. However, we still ask that folks be mindful of spreading these sentiments on the public timeline, CW such posts appropriately, and respect requests to mark them as followers-only.
+We recognize that marginalization can bring a lot of internalized hate, and
+intend for this to be a safe space to process that. However, we still ask that
+folks be mindful of spreading these sentiments on the public timeline, CW such
+posts appropriately, and respect requests to mark them as followers-only.
 
 <br/>
 
