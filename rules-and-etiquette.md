@@ -171,6 +171,7 @@ Some kinds of conspiracy talk and discussions of the occult and woo are fine, bu
 - 'Creation Science' and other religious forms of pseudoscience.
 - Promoting MLMs (Multi-Level Marketing schemes) or Ponzi schemes.
 - Promoting, supporting, or using Weirder Earth to do business with cryptocurrency, NFTs, play-to-earn gaming, or the like. (Anti-cryptocurrency posting is permitted.)
+- Promoting or supporting large data set neural nets designed to replace creative labor (e.g. LLMs like ChatGPT, Copilot, LLaMA; so-called "AI art" tools like Midjourney, Stable Diffusion, and DALL-E), due to the exploitative and environmentally-destructive nature of their creation and use.
 
 Guerrilla ontologies and similar things are absolutely fine.
 
@@ -238,6 +239,7 @@ You should CW a post when it contains any of the following topics, whether the c
 - **Themes or content about abuse**
 - **Common phobias** (Like certain animals such as snakes and insects.)
 - **Long posts or posts with multiple parts** (please also use the 'unlisted' privacy setting for posts after the first in a thread, so that the local timeline doesn't get flooded)
+- **Content made with generative tools** like neural networks ("AI") and dissociated press/ebooks bot-style Markov chains that are **designed primarily to imitate art or communication made by people.** These can cause an uncanny-valley effect and can be distressing or frustrating when presented without warning.
 
 Also CW images that have nudity or these areas of the body exposed:
 
