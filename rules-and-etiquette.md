@@ -246,7 +246,7 @@ Also CW images that have nudity or these areas of the body exposed:
 - A certain area around the nipples (and/or the nipples themselves). From the end of the ribcage to the bust line.
 - Anything less than what boxer briefs or shorts would cover around the groin area.
 
-This applies to all bodies regardless of gender.
+Please specify in the CW if the nudity contains genitals. This applies to all bodies regardless of gender.
 
 We don't want to ask anyone to CW their identities. We particularly don't want to ask marginalized people to CW their marginalization. We're not going to be hardline about the rules in cases where there are compelling reasons to frame what you're saying differently...
 
